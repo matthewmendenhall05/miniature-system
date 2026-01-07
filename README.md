@@ -13,5 +13,5 @@ Text *italic text* text.
 
 Text 'inline code' text.
 
-1. Numbered item 1
-2. Numbered item 2
+1. Numbered item 3
+2. Numbered item 4
